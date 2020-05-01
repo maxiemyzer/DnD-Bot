@@ -108,7 +108,11 @@ bot.on("message", async message => {
     
         var commands = bot.commands.get(command.slice(prefix.length));
     
-        if(commands) commands.run(bot,message, arguments);
+        if(commands) {
+            commands.run(bot,message, arguments)
+        } else {
+            message.channel.send("D&D: can't find command")
+        }
     }
 
 });
