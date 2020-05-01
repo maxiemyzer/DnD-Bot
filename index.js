@@ -77,7 +77,7 @@ fs.readdir("./commands/settings", (err, files3) => {
 bot.on("ready", async () => {
 
     console.log(`${bot.user.username} is online!`);
-    bot.user.setActivity(`D&D`, { type: "Watching" });
+    bot.user.setActivity("D&D", {type: "Watching"});
 
 });
 
