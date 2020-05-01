@@ -1,0 +1,87 @@
+{
+    "p1":
+    {
+        "name":"bulbasaur",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "hp": 500
+    },
+    "p2":
+    {
+        "name": "ivysaur",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "hp": 600
+    },
+    "p3":
+    {
+        "name": "venusaur",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+        "hp": 700
+    },
+    "p4":
+    {
+        "name": "charmender",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "hp": 500
+    },
+    "p5":
+    {
+        "name": "charmeleon",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+        "hp": 600
+    },
+    "p6":
+    {
+        "name": "charizard",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+        "hp": 700
+    },
+    "p7":
+    {
+        "name": "squirtle",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "hp": 500
+    },
+    "p8":
+    {
+        "name": "wartortle",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        "hp": 600
+    },
+    "p9":
+    {
+        "name": "blastoise",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        "hp": 700
+    },
+    "p10":
+    {
+        "name": "caterpie",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+        "hp": 500
+    },
+    "p11":
+    {
+        "name": "metapod",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+        "hp": 600
+    },
+    "p12":
+    {
+        "name": "butterfree",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+        "hp": 700
+    },
+    "p13":
+    {
+        "name": "weedle",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+        "hp": 500
+    },
+    "p14":
+    {
+        "name": "kakuna",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+        "hp": 600
+    }
+    
+}
