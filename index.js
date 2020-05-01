@@ -93,10 +93,6 @@ bot.on("message", async message => {
 
     var prefix = prefixes[message.guild.id].prefixes;
 
-    if (message.isMemberMentioned(bot.user)) {
-        message.channel.send(`My prefix is: **${prefix}**`)
-    }
-
     var roles = prefixes[message.guild.id].role;
 
     if (message.content.startsWith(prefix)) {

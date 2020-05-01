@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
     
     var roll = Math.floor((Math.random() * 6) + 1);
 
-    var rollEmbed = new discord.RichEmbed()
+    var rollEmbed = new discord.MessageEmbed()
     .setTitle("D6")
     .addField("result", roll)
     .setColor("FF0000")
